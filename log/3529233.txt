@@ -1,0 +1,2 @@
+{"timezone": "Europe/Athens", "updatetime": 1507232879, "measuregrps": []}
+{"timezone": "Europe/Athens", "updatetime": 1507232957, "measuregrps": [{"date": 1506970850, "category": 1, "attrib": 2, "grpid": 918719142, "measures": [{"type": 1, "unit": -3, "value": 91000}]}]}
